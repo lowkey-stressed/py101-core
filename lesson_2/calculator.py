@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Ask user for second number
 # Ask user which operation to perform (Add, Multiply, Subtract, Divide)
@@ -76,3 +77,6 @@ while True: # Outer While loop to allow for multiple calculations
 
         
    
+=======
+TESTING
+>>>>>>> ffc98d6c753f0efdd9b1b8b63cbe36b780fb58ec
