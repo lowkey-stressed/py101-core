@@ -1,0 +1,10 @@
+{
+  "en": {
+    "welcome": "Welcome to Calculator!",
+    "invalid_number": "Hmm... that doesn't look like a valid number."
+  },
+  "es": {
+    "welcome": "¡Bienvenido a la calculadora!",
+    "invalid_number": "Hmm... eso no parece un número válido."
+  }
+}
